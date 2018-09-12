@@ -14,8 +14,11 @@ To run this program, you need to express all features in a matris, and use id to
 
 # Environment
 MATLAB
+
 8-core CPU
+
 24 GB memory
+
 64-bit Windows Operating Systems
 
 # Data
