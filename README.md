@@ -9,6 +9,9 @@ The Cost;
 The parameters(gamma) of calculating kernels of each feature are needed;
 Kernels of festures are needed for RLS;
 
+# Software
+To run this programe, you need to express all features in a matris, and use id to indicate the start and end position of each feature.
+
 # Environment
 MATLAB
 8-core CPU
