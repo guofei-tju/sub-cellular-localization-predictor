@@ -4,8 +4,10 @@
 We propose a multi-kernel SVM to predict subcellular localization of both multi-location and single-location proteins. We built a custome kernel for the SVM classifier, test the method on two human datasets and use three indicators to evaluate the results. We also compare our method with the RLS on two datasets. 
 
 Input: Features extracted from protein, we use the PsePSSM,AvBlock,DWT and so on;
+Labels of all samples;
+The Cost;
+The parameters(gamma) of calculating kernels of each feature are needed;
 Kernels of festures are needed for RLS;
-The parameters of calculating kernels of each feature are needed;
 
 # Environment
 MATLAB
