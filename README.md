@@ -19,13 +19,13 @@ We propose a multi-kernel SVM to predict subcellular localization of both multi-
 To run this program, you need to express all features in a matris, and use id to indicate the start and end position of each feature.
 
 # Environment
-MATLAB
+MATLAB R2017a
+
+Windows 10(64bit)
 
 8-core CPU
 
 24 GB memory
-
-64-bit Windows Operating Systems
 
 # Data
 There are two datasets in the folder.
